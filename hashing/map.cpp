@@ -24,12 +24,7 @@ while(q--){
     cout<<mpp[number]<<endl;
     
 }
-while(q--){
-    int number;
-    cin>>number;
-    cout<<mpp[number]<<endl;
-    
-}
+
 
 
 
